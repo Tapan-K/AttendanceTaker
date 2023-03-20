@@ -18,7 +18,7 @@ Go Here 👉 [attendanceclass.herokuapp.com](https://attendanceclass.herokuapp.c
 ## Usage
 
 ```
-git clone https://github.com/ashish-devv/attendance-taker-node.git
+git clone https://github.com/Tapan-K/AttendanceTaker.git
 
 cd attendance-taker-node
 
